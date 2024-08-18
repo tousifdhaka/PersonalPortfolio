@@ -84,7 +84,7 @@ const Hero = () => {
         goCOMETS!
       </motion.div>
       <div className="imageContainer">
-        <img src="/hero.png" alt=""/>
+        <img src="/hero.png" alt="profilePicture"/>
       </div>
     </div>
   );

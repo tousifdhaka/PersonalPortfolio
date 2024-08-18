@@ -8,7 +8,7 @@ const items = [
     title: "Product Marketing Engineering Intern",
     img: "ti.png" ,
     desc: <ul>
-      <li>Interned in the Product and Portfolio Marketing team to optimize the ti.com search experience for customers</li>
+      <li>Interned in the Product and Portfolio Marketing - Embedded Processing team to optimize the ti.com search experience for customers</li>
       <li>Spearheaded C2000 MCU tool folder optimization with SDKs, hardware, driver, etc. packaging using OneRelease & PIM</li>
       <li>Optimized user experience by cleaning up 40% of unmaintained reference designs by analyzing activity counts on PAD & eMSG</li>
       <li>Developed 3rd party partner ecosystem to share their story on ti.com and linked their products using PIM, eMSG, and DAM</li>
