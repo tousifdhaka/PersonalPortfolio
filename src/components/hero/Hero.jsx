@@ -48,8 +48,9 @@ const Hero = () => {
           animate="animate"
         >
           <motion.h2 variants={textVariants}>TOUSIF AHSAN</motion.h2>
-          <motion.h3 variants={textVariants}>BS in Biomedical Engineering & Computer Science Minor
-          @ UNIVERSITY OF TEXAS AT DALLAS
+          <motion.h3 variants={textVariants}>BS in Biomedical Engineering & Computer Science   
+          </motion.h3>
+          <motion.h3 variants={textVariants}>UNIVERSITY OF TEXAS AT DALLAS
           </motion.h3>
           <motion.h1 variants={textVariants}>
             Aspiring BME student with a strong interest in tech and its
@@ -59,14 +60,8 @@ const Hero = () => {
             to make people's lives more convenient, fun, and exciting.
           </motion.h1>
           <motion.h1 variants={textVariants}>
-            Expected Graduation: May 2025    |    US Citizen   |     GPA: 3.65
+             US Citizen
           </motion.h1>
-          <motion.div variants={textVariants} className="buttons">
-            <motion.button variants={textVariants}>
-              Check out my profile
-            </motion.button>
-            <motion.button variants={textVariants}>Contact Me</motion.button>
-          </motion.div>
           <motion.img
             variants={textVariants}
             animate="scrollButton"

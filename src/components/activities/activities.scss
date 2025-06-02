@@ -1,6 +1,6 @@
 @import "../../app.scss";
 
-.portfolio {
+.activities {
   position: relative;
 
   .progress {
@@ -90,7 +90,7 @@
 
         p {
           color: gray;
-          font-size: 20px;
+          font-size: 18px;
           text-align: center;
 
           @include mobile {
@@ -99,7 +99,7 @@
         }
 
         li {
-          margin: 15px 0;
+          margin: 10px 0;
           text-align: left;
         }
 
